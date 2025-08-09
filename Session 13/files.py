@@ -18,3 +18,6 @@ if __name__ == "__main__":
     # print(file_lines)
 
     write_in_file("text.out", "Salut, acesta este un output!")
+
+x = "Learning Python"
+print(x)
